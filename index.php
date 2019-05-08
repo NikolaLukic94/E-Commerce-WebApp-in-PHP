@@ -33,7 +33,6 @@
 			</ul>
 		</div><!-- col-md-6  - end -->
 	</div><!-- Container - end -->
-
 </div><!-- Top - end -->
 
 <div id="navbar" class="navbar navbar-default"><!-- navbar navbar-default start -->
@@ -123,7 +122,64 @@
 	</div><!-- col-md-12 - start -->
 </div><!-- Container - end -->
 
+	<div id="advantages"><!-- advantages - start -->
+		<div class="container"><!-- container - start -->
+			<div class="same-height-row"><!-- same-height-row - start -->
+				<div class="col-sm-4"><!-- col-sm-4 - start -->
+					<div class="box same-height"><!-- box same-height - start -->
+						<div class="icon">
+							<i class="fa fa-heart"></i>
+						</div>
+						<h3><a href="#">We Love Our Customer</a></h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+					</div><!-- box same-height - end -->
+				</div><!-- col-sm-4 - end -->
 
+				<div class="col-sm-4"><!-- col-sm-4 - start -->
+					<div class="box same-height"><!-- box same-height - start -->
+						<div class="icon">
+							<i class="fa fa-tag"></i>
+						</div>
+						<h3><a href="#">Best Prices</a></h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+					</div><!-- box same-height - end -->
+				</div><!-- col-sm-4 - end -->
+
+				<div class="col-sm-4"><!-- col-sm-4 - start -->
+					<div class="box same-height"><!-- box same-height - start -->
+						<div class="icon">
+							<i class="fa fa-thumbs-up"></i>
+						</div>
+						<h3><a href="#">100% Original Products</a></h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+					</div><!-- box same-height - end -->
+				</div><!-- col-sm-4 - end -->				
+
+			</div><!-- same-height-row - end -->
+		</div><!-- container - end -->
+	</div><!-- advantages - end -->
+
+	<div id="hot"><!-- #hot - start -->
+		<div class="box"><!-- box - start -->
+			<div class="container"><!-- container - start -->
+				<div class="col-md-12"><!-- col-md-12 - start -->				
+					<h2>Our Latest Products</h2>
+				</div><!-- col-md-12 - end -->				
+			</div><!-- container - start -->
+		</div><!-- box - end -->
+	</div><!-- #hot - end -->
+
+	<div class="container" id="content"><!-- container - start -->
+		<div class="row"><!-- row - start -->
+			<div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single - start -->
+				<div class="product"><!-- product - start -->
+					<a href="details.php">
+						<img class="img-responsive" src="admin_area/product_images/product-1.jpg" alt="Product 1">
+					</a>
+				</div><!-- product - end -->
+			</div><!-- col-sm-4 col-sm-6 single - end -->
+		</div><!-- row - end -->
+	</div><!-- container - end -->
 
 	<script src="js/jquery-331.min.js"></script>
 	<script src="js/bootstrap-337.min.js"></script>
