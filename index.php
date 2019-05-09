@@ -176,10 +176,76 @@
 					<a href="details.php">
 						<img class="img-responsive" src="admin_area/product_images/product-1.jpg" alt="Product 1">
 					</a>
+					<div class="text">	
+						<h3>	
+							<a href="details.php">Logo T-Shirt</a>
+						</h3>
+					<p class="price">	
+						#30
+					</p>	
+					<p class="button">	
+						<a href="details.php" class="btn btn-default">View Details</a>
+						<a href="details.php" class="btn btn-default">
+							<i class="fa fa-shopping-cart">	
+								Add to Cart
+							</i>
+						</a>
+					</p>
+					</div>	
 				</div><!-- product - end -->
 			</div><!-- col-sm-4 col-sm-6 single - end -->
+			<div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single - start -->
+				<div class="product"><!-- product - start -->
+					<a href="details.php">
+						<img class="img-responsive" src="admin_area/product_images/product-1.jpg" alt="Product 1">
+					</a>
+					<div class="text">	
+						<h3>	
+							<a href="details.php">Logo T-Shirt</a>
+						</h3>
+					<p class="price">	
+						#30
+					</p>	
+					<p class="button">	
+						<a href="details.php" class="btn btn-default">View Details</a>
+						<a href="details.php" class="btn btn-default">
+							<i class="fa fa-shopping-cart">	
+								Add to Cart
+							</i>
+						</a>
+					</p>
+					</div>	
+				</div><!-- product - end -->
+			</div><!-- col-sm-4 col-sm-6 single - end -->
+			<div class="col-sm-4 col-sm-6 single"><!-- col-sm-4 col-sm-6 single - start -->
+				<div class="product"><!-- product - start -->
+					<a href="details.php">
+						<img class="img-responsive" src="admin_area/product_images/product-1.jpg" alt="Product 1">
+					</a>
+					<div class="text">	
+						<h3>	
+							<a href="details.php">Logo T-Shirt</a>
+						</h3>
+					<p class="price">	
+						#30
+					</p>	
+					<p class="button">	
+						<a href="details.php" class="btn btn-default">View Details</a>
+						<a href="details.php" class="btn btn-default">
+							<i class="fa fa-shopping-cart">	
+								Add to Cart
+							</i>
+						</a>
+					</p>
+					</div>	
+				</div><!-- product - end -->
+			</div><!-- col-sm-4 col-sm-6 single - end -->						
 		</div><!-- row - end -->
 	</div><!-- container - end -->
+
+	<?php
+		include('includes/footer.php')
+	?>
 
 	<script src="js/jquery-331.min.js"></script>
 	<script src="js/bootstrap-337.min.js"></script>
